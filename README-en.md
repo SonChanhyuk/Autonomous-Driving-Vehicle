@@ -81,3 +81,6 @@ check_pos(camera) - Uses the camera to check if the vehicle is outside or inside
 sign_video() - A test function that detects shapes on the screen through the camera.  
 sign_shape_detect(img) - A function that checks for signs on the screen. img is the camera screen.  
 run() - The execution code. Moves the vehicle while checking the ultrasonic, sign detect, and color sensor.
+
+## Contact
+thscksgur0903@gmail.com

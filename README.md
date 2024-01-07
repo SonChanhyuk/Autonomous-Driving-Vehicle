@@ -80,3 +80,5 @@ sign_video() - 카메라를 통해 화면의 도형을 탐지하는 테스트용
 sign_shape_detect(img) - 화면에 표지판이 있는지 확인하는 함수입니다. img는 카메라 화면입니다.  
 run() - 실행코드입니다. ultrasonic, sign detect, color sensor를 확인하며 차량을 움직입니다.
 
+## 연락처
+thscksgur0903@gmail.com
